@@ -1,4 +1,4 @@
-#Elliptic Curve
+# Elliptic Curve
 
 In this repo we will write a simple class in Python that models an elliptic curve over a finite field of p elements, where p is a prime larger than 3.
 
